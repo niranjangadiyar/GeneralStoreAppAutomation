@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [General Store Test Cases]">
+  <test thread-count="5" name="General Store End To End scenario(failed)">
+    <classes>
+      <class name="maintestfiles.GeneralStoreTestCases">
+        <methods>
+          <include name="configureDriver"/>
+          <include name="happyPathTestCase"/>
+          <include name="quitDriver"/>
+        </methods>
+      </class> <!-- maintestfiles.GeneralStoreTestCases -->
+    </classes>
+  </test> <!-- General Store End To End scenario(failed) -->
+</suite> <!-- Failed suite [General Store Test Cases] -->

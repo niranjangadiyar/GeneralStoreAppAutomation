@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Created objects of all the Page classes.]]>
+    </line>
+    <line>
+      <![CDATA[Country selected.]]>
+    </line>
+    <line>
+      <![CDATA[Entered the name.]]>
+    </line>
+    <line>
+      <![CDATA[Selected Gender as female.]]>
+    </line>
+    <line>
+      <![CDATA[Tapped on Lets shop button.]]>
+    </line>
+    <line>
+      <![CDATA[User is on Products screen.]]>
+    </line>
+    <line>
+      <![CDATA[Desired products have been selected.]]>
+    </line>
+    <line>
+      <![CDATA[Tapped on cart icon at the top right corner]]>
+    </line>
+    <line>
+      <![CDATA[User is on cart screen.]]>
+    </line>
+    <line>
+      <![CDATA[Cart consists of correct products that were previously selected.]]>
+    </line>
+    <line>
+      <![CDATA[Sum of product prices is equal to the total price displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Selected the send me email check box]]>
+    </line>
+    <line>
+      <![CDATA[Tapped on visit the website button.]]>
+    </line>
+    <line>
+      <![CDATA[Entered 'General Store' in search field on the website.]]>
+    </line>
+    <line>
+      <![CDATA[Tapped on Back button to navigate back to Home screen.]]>
+    </line>
+    <line>
+      <![CDATA[User is on Homescreen.]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-05-08T14:32:09 IST" name="General Store Test Cases" finished-at="2024-05-08T14:33:30 IST" duration-ms="80459">
+    <groups>
+    </groups>
+    <test started-at="2024-05-08T14:32:09 IST" name="General Store End To End scenario" finished-at="2024-05-08T14:33:30 IST" duration-ms="80459">
+      <class name="maintestfiles.GeneralStoreTestCases">
+        <test-method is-config="true" signature="configureDriver()[pri:0, instance:maintestfiles.GeneralStoreTestCases@38cee291]" started-at="2024-05-08T14:32:09 IST" name="configureDriver" finished-at="2024-05-08T14:32:16 IST" duration-ms="7167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureDriver -->
+        <test-method signature="happyPathTestCase()[pri:0, instance:maintestfiles.GeneralStoreTestCases@38cee291]" started-at="2024-05-08T14:32:16 IST" name="happyPathTestCase" finished-at="2024-05-08T14:33:29 IST" duration-ms="72885" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Created objects of all the Page classes.]]>
+            </line>
+            <line>
+              <![CDATA[Country selected.]]>
+            </line>
+            <line>
+              <![CDATA[Entered the name.]]>
+            </line>
+            <line>
+              <![CDATA[Selected Gender as female.]]>
+            </line>
+            <line>
+              <![CDATA[Tapped on Lets shop button.]]>
+            </line>
+            <line>
+              <![CDATA[User is on Products screen.]]>
+            </line>
+            <line>
+              <![CDATA[Desired products have been selected.]]>
+            </line>
+            <line>
+              <![CDATA[Tapped on cart icon at the top right corner]]>
+            </line>
+            <line>
+              <![CDATA[User is on cart screen.]]>
+            </line>
+            <line>
+              <![CDATA[Cart consists of correct products that were previously selected.]]>
+            </line>
+            <line>
+              <![CDATA[Sum of product prices is equal to the total price displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Selected the send me email check box]]>
+            </line>
+            <line>
+              <![CDATA[Tapped on visit the website button.]]>
+            </line>
+            <line>
+              <![CDATA[Entered 'General Store' in search field on the website.]]>
+            </line>
+            <line>
+              <![CDATA[Tapped on Back button to navigate back to Home screen.]]>
+            </line>
+            <line>
+              <![CDATA[User is on Homescreen.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- happyPathTestCase -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:maintestfiles.GeneralStoreTestCases@38cee291]" started-at="2024-05-08T14:33:29 IST" name="quitDriver" finished-at="2024-05-08T14:33:30 IST" duration-ms="371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- maintestfiles.GeneralStoreTestCases -->
+    </test> <!-- General Store End To End scenario -->
+  </suite> <!-- General Store Test Cases -->
+</testng-results>

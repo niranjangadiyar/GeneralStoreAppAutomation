@@ -1,0 +1,7 @@
+<suite name="General Store Test Cases">
+	<test name="General Store End To End scenario">
+		<classes>
+			<class name="maintestfiles.GeneralStoreTestCases"/>
+		</classes>
+	</test>
+</suite>
